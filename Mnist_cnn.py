@@ -1,4 +1,4 @@
-print_function
+from future import print_function
 import keras
 from keras.datasets import mnist
 from keras.models import Sequential
